@@ -1,7 +1,7 @@
 # 🎈🎗🎁🎄🎆VBA-VBE-VBE_AutoComplete
 ***VBE_AutoComplete**是一款VBE(Visual Basic Editor，也叫vba代码编辑器)插件  插件采用宿主无关性设计，完美兼容 Excel、Word、PPT 、AutoCAD 、SolidWorks、CorelDraw ……等所有内置 VBE 的应用程序  插件不影响宿主(如Excel)的运行效率，只有当你打开VBE界面，插件才开始加载
 
-# VBE _AutoComplete_V1.0.14_ 使用说明
+# VBE _AutoComplete使用说明
 
 ## 1、简介
 
@@ -685,6 +685,9 @@ A区和B区的区别为A区为连续匹配，B区为不连续匹配
 
 Table Of Contents
 
+<img width="2093" height="847" alt="01" src="https://github.com/user-attachments/assets/e08d3efe-c44c-43ab-88a3-e47c77a64344" />
+
+
 [VBEAutoComplete_V1.0.14使用说明](vbe_autocomplete_v1.0.14_使用说明.html#VBEAutoComplete_V1.0.14使用说明_0)
 
 [1、简介](vbe_autocomplete_v1.0.14_使用说明.html#1、简介_0)
@@ -756,6 +759,8 @@ Table Of Contents
 [其他设置](vbe_autocomplete_v1.0.14_使用说明.html#其他设置_0)
 
 [14、更新日志](vbe_autocomplete_v1.0.14_使用说明.html#14、更新日志_0)
+
+
 
 [1.0.14](vbe_autocomplete_v1.0.14_使用说明.html#1.0.14_0)
 
